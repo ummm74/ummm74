@@ -2,7 +2,7 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning comp sci
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me dont
+- 📫 How to reach me: dont
 
 <!---
 ummm74/ummm74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
