@@ -1,7 +1,15 @@
-      __,_____
-  :  / __.==--"
-    /#(-'
-    `-'
+      _----------_,
+    ,"__         _-:, 
+   /    ""--_--""...:\
+  /         |.........\
+ /          |..........\
+/,         _'_........./:
+! -,    _-"   "-_... ,;;:
+\   -_-"         "-_/;;;;
+ \   \             /;;;;'
+  \   \           /;;;;
+   '.  \         /;;;'
+     "-_\_______/;;'
 <!---
 ummm74/ummm74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
